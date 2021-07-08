@@ -1,0 +1,23 @@
+---
+title: Noisy Signal Prediction Dataset
+homepage: https://www.kaggle.com/gchevalier/noisy-signal-prediction-dataset
+category: TimeSeries
+description: Noisy synthetic data to try to predict future values from seen values
+version: 1.0
+keywords: noisy, signal, sinus, cosinus, frequencies, autoregressive, autoencoder, prediction
+image: https://kaggle2.blob.core.windows.net/datasets-images/15262/20321/9c355d615b1c36590eca9b683b69a405/dataset-cover.png
+temporal:
+spatial:
+access_level: public
+copyrights: 2017, Guillaume Chevalier
+accrual_periodicity:
+specification:
+data_quality: false
+data_dictionary:
+language: fr, en
+license: MIT https://github.com/guillaume-chevalier/seq2seq-signal-prediction/blob/master/LICENSE
+publisher:
+organization:
+issued_time: 2017.04
+sources:
+references:
